@@ -1,5 +1,7 @@
 # latex-table-templates-
 ## table1
+![示例图片](https://raw.githubusercontent.com/Fiona-9/latex-table-templates-
+/4781687223122_.pic_thumb.jpg)
 ```latex
 % tikz.vn 
 % Le Huy Tien, HUS-VNU
